@@ -1,0 +1,13 @@
+C:\Users\imamf\Documents\Program\C#\BelajarOOP\bin\Debug\netcoreapp3.1\BelajarOOP.exe
+C:\Users\imamf\Documents\Program\C#\BelajarOOP\bin\Debug\netcoreapp3.1\BelajarOOP.deps.json
+C:\Users\imamf\Documents\Program\C#\BelajarOOP\bin\Debug\netcoreapp3.1\BelajarOOP.runtimeconfig.json
+C:\Users\imamf\Documents\Program\C#\BelajarOOP\bin\Debug\netcoreapp3.1\BelajarOOP.runtimeconfig.dev.json
+C:\Users\imamf\Documents\Program\C#\BelajarOOP\bin\Debug\netcoreapp3.1\BelajarOOP.dll
+C:\Users\imamf\Documents\Program\C#\BelajarOOP\bin\Debug\netcoreapp3.1\BelajarOOP.pdb
+C:\Users\imamf\Documents\Program\C#\BelajarOOP\obj\Debug\netcoreapp3.1\BelajarOOP.csprojAssemblyReference.cache
+C:\Users\imamf\Documents\Program\C#\BelajarOOP\obj\Debug\netcoreapp3.1\BelajarOOP.AssemblyInfoInputs.cache
+C:\Users\imamf\Documents\Program\C#\BelajarOOP\obj\Debug\netcoreapp3.1\BelajarOOP.AssemblyInfo.cs
+C:\Users\imamf\Documents\Program\C#\BelajarOOP\obj\Debug\netcoreapp3.1\BelajarOOP.csproj.CoreCompileInputs.cache
+C:\Users\imamf\Documents\Program\C#\BelajarOOP\obj\Debug\netcoreapp3.1\BelajarOOP.dll
+C:\Users\imamf\Documents\Program\C#\BelajarOOP\obj\Debug\netcoreapp3.1\BelajarOOP.pdb
+C:\Users\imamf\Documents\Program\C#\BelajarOOP\obj\Debug\netcoreapp3.1\BelajarOOP.genruntimeconfig.cache
